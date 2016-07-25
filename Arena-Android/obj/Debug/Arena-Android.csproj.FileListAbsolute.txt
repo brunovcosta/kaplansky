@@ -1,0 +1,14 @@
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\bin\Debug\Arena-Android.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\bin\Debug\Arena-Android.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\bin\Debug\Arena_Android.Arena_Android.apk
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\bin\Debug\Arena_Android.Arena_Android-Signed.apk
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\bin\Debug\MonoGame.Framework.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\Arena-Android.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\Arena-Android.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\Arena-Android.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\android\bin\Arena_Android.Arena_Android.apk
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\res\drawable\icon.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\res\drawable\splash.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\res\values\styles.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\R.cs.flag
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\obj\Debug\uploadflags.txt

@@ -1,0 +1,12 @@
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\obj\x86\Debug\DebugView MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\obj\x86\Debug\DebugView MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\Content\Font.xnb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\DebugView MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\DebugView MonoGame.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\bin\WindowsGL\Debug\MonoGame.Framework.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics DebugView 3.5\obj\x86\Debug\DebugView MonoGame.pdb

@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{FB39B25B-B1E8-4757-8576-7FD5582C3AB6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Arena</RootNamespace>
+    <AssemblyName>Arena</AssemblyName>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ArenaMonoGame.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="MonoGame.Framework">
+      <HintPath>..\packages\MonoGame.Framework.Linux.3.4.0.459\lib\net40\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK">
+      <HintPath>..\packages\MonoGame.Framework.Linux.3.4.0.459\lib\net40\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="Tao.Sdl">
+      <HintPath>..\packages\MonoGame.Framework.Linux.3.4.0.459\lib\net40\Tao.Sdl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MainGame.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Helpers\Geometry.cs" />
+    <Compile Include="Helpers\TextProcess\TextFont.cs" />
+    <Compile Include="Helpers\Draw\Camera.cs" />
+    <Compile Include="Helpers\Draw\Paint.cs" />
+    <Compile Include="Helpers\Draw\Shapes.cs" />
+    <Compile Include="Core\Nodes\BadBiter.cs" />
+    <Compile Include="Core\Nodes\Node.cs" />
+    <Compile Include="Core\Nodes\Physical\Modules\Gun.cs" />
+    <Compile Include="Core\Nodes\Physical\Modules\TestingBlock.cs" />
+    <Compile Include="Core\Nodes\Physical\Modules\Turbine.cs" />
+    <Compile Include="Core\Nodes\Physical\PhysicalNode.cs" />
+    <Compile Include="Core\Nodes\Physical\Player.cs" />
+    <Compile Include="Core\Nodes\Physical\Stick.cs" />
+    <Compile Include="Core\Circuits\Component.cs" />
+    <Compile Include="Core\Circuits\Gates\And.cs" />
+    <Compile Include="Core\Circuits\Gates\Gate.cs" />
+    <Compile Include="Core\Circuits\Gates\TwoInputGate.cs" />
+    <Compile Include="Core\Circuits\Inputs\Button.cs" />
+    <Compile Include="Core\Circuits\Inputs\Clock.cs" />
+    <Compile Include="Core\Circuits\Inputs\False.cs" />
+    <Compile Include="Core\Circuits\Inputs\Giroscope.cs" />
+    <Compile Include="Core\Circuits\Inputs\Input.cs" />
+    <Compile Include="Core\Circuits\Inputs\True.cs" />
+    <Compile Include="Core\Build\CircuitBuilder.cs" />
+    <Compile Include="Core\Build\DrawBuilder.cs" />
+    <Compile Include="Core\Build\ModuleBuilder.cs" />
+    <Compile Include="Core\Build\PlayerBuilder.cs" />
+    <Compile Include="Core\Nodes\Physical\Modules\ModuleBase.cs" />
+    <Compile Include="Core\Nodes\Physical\EnemyNode.cs" />
+    <Compile Include="Core\Map.cs" />
+    <Compile Include="Core\Nodes\Physical\EnemyBase.cs" />
+    <Compile Include="Core\Nodes\Physical\Modules\WheelAntiClockWise.cs" />
+    <Compile Include="Core\Nodes\Physical\Modules\WheelClockWise.cs" />
+    <Compile Include="Core\Nodes\Physical\Modules\Wheel.cs" />
+    <Compile Include="Core\Build\ModuleData.cs" />
+    <Compile Include="Core\Nodes\Physical\BreakableWall.cs" />
+    <Compile Include="Core\Circuits\Gates\No.cs" />
+    <Compile Include="Core\Circuits\Gates\OneInputGate.cs" />
+    <Compile Include="Core\Circuits\Gates\Or.cs" />
+    <Compile Include="Core\Nodes\Scenes\BuildScene.cs" />
+    <Compile Include="Core\Nodes\Scenes\PlayScene.cs" />
+    <Compile Include="Core\GUI\CircuitBar.cs" />
+    <Compile Include="Core\GUI\GuiButton.cs" />
+    <Compile Include="Core\GUI\ModuleBar.cs" />
+    <Compile Include="Core\GUI\MouseInterface.cs" />
+    <Compile Include="Core\GUI\Panel.cs" />
+    <Compile Include="Core\GUI\View.cs" />
+    <Compile Include="Core\Build\PlayerPropeties.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon.png" />
+    <None Include="Content\Content.mgcb" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Content Include="Content\player_base.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\turbine_off.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\turbine_on.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\build_background.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Comfortaa-Bold.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\lava.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\combustivel.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\laser.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\font_bitmap.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\biter.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\botClock.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\botBot.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\botAnd.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\botGyroscope.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\botLaser.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\botTurb.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\btnRodaAnti.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\btnRodaHor.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\roda.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ground_block_upright.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ground_block_upleft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ground_block_full.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ground_block_downright.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ground_block_downleft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\blueprint.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\arrival.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\levels\lv2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\levels\lv1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\lib\Farseer Physics DebugView 3.5\DebugView MonoGame.csproj">
+      <Project>{566F1803-90B5-4947-8730-57F092FBB002}</Project>
+      <Name>DebugView MonoGame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\lib\Farseer Physics Engine 3.5\Farseer Physics MonoGame.csproj">
+      <Project>{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}</Project>
+      <Name>Farseer Physics MonoGame</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core\Nodes\Scenes\" />
+  </ItemGroup>
+</Project>

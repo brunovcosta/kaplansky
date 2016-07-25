@@ -1,0 +1,12 @@
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/Content/Font.xnb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/DebugView MonoGame.dll.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/DebugView MonoGame.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/obj/x86/Debug/DebugView MonoGame.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/obj/x86/Debug/DebugView MonoGame.dll.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/MonoGame.Framework.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/OpenTK.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/Tao.Sdl.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/FarseerPhysics MonoGame.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/bin/WindowsGL/Debug/FarseerPhysics MonoGame.dll.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics DebugView 3.5/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs

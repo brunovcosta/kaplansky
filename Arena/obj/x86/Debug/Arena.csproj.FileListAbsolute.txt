@@ -1,0 +1,51 @@
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\Font.xnb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\turbine_off.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\turbine_on.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\Comfortaa-Bold.ttf
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\lava.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\combustivel.jpg
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\laser.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\font_bitmap.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\biter.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\botClock.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\botBot.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\botAnd.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\botGyroscope.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\botLaser.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\botTurb.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\btnRodaAnti.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\btnRodaHor.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\ground_block_upright.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\ground_block_upleft.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\ground_block_full.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\ground_block_downright.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\ground_block_downleft.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\player_base.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\background.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\build_background.jpg
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\roda.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\blueprint.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\arrival.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\levels\lv2.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Content\levels\lv1.png
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Arena.exe
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\Arena.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\DebugView MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\FarseerPhysics MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\MonoGame.Framework.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.DXGI.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.XInput.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\MonoGame.Framework.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\obj\x86\Debug\Arena.exe
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\obj\x86\Debug\Arena.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\obj\x86\Debug\Arena.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\DebugView MonoGame.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\MainGame.cs
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.RawInput.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Debug\SharpDX.Direct3D9.dll

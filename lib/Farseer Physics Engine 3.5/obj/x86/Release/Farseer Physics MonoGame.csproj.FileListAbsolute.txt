@@ -1,0 +1,9 @@
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\obj\x86\Release\Farseer Physics MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\bin\WindowsGL\Release\FarseerPhysics MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\bin\WindowsGL\Release\FarseerPhysics MonoGame.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\bin\WindowsGL\Release\MonoGame.Framework.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\obj\x86\Release\FarseerPhysics MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\lib\Farseer Physics Engine 3.5\obj\x86\Release\FarseerPhysics MonoGame.pdb

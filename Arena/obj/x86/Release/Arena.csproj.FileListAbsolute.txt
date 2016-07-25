@@ -1,0 +1,27 @@
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\MonoGame.Framework.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\OpenTK.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\Tao.Sdl.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\DebugView MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\FarseerPhysics MonoGame.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.XAudio2.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.DXGI.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.XInput.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.MediaFoundation.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\DebugView MonoGame.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\FarseerPhysics MonoGame.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\MonoGame.Framework.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.XAudio2.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.DXGI.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.XInput.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\SharpDX.MediaFoundation.xml
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\obj\x86\Release\Arena.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\obj\x86\Release\Arena.exe
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\obj\x86\Release\Arena.pdb
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\MonoGame.Framework.Net.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena\bin\Release\MonoGame.Framework.Net.xml

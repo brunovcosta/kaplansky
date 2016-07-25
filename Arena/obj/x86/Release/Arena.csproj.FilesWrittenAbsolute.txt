@@ -1,0 +1,43 @@
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/Font.xnb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/player_base.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/turbine_off.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/turbine_on.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/background.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/build_background.jpg
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/Comfortaa-Bold.ttf
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/lava.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/combustivel.jpg
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/laser.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/font_bitmap.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/biter.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/botClock.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/botBot.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/botAnd.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/botGyroscope.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/botLaser.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/botTurb.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/btnRodaAnti.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/btnRodaHor.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/roda.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/ground_block_upright.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/ground_block_upleft.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/ground_block_full.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/ground_block_downright.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/ground_block_downleft.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/blueprint.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/arrival.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/levels/lv2.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Content/levels/lv1.png
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Arena.exe.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Arena.exe
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/obj/x86/Release/Arena.exe
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/obj/x86/Release/Arena.exe.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/MonoGame.Framework.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/OpenTK.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/Tao.Sdl.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/DebugView MonoGame.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/DebugView MonoGame.dll.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/FarseerPhysics MonoGame.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/bin/Release/FarseerPhysics MonoGame.dll.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/Arena/obj/x86/Release/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs

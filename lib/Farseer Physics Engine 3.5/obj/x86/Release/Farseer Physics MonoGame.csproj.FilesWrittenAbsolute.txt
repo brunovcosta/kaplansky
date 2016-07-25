@@ -1,0 +1,21 @@
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/obj/x86/Release/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/FarseerPhysics MonoGame.dll.mdb
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/FarseerPhysics MonoGame.dll
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/obj/x86/Release/FarseerPhysics MonoGame.dll
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/obj/x86/Release/FarseerPhysics MonoGame.dll.mdb
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/MonoGame.Framework.Linux.dll
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/OpenTK.dll
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/Lidgren.Network.dll
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/Lidgren.Network.xml
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/Tao.Sdl.dll
+/home/bruno/Downloads/Farseer Physics Engine 3.5 (2)/bin/WindowsGL/Release/MonoGame.Framework.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/obj/x86/Release/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/bin/WindowsGL/Release/FarseerPhysics MonoGame.dll.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/bin/WindowsGL/Release/FarseerPhysics MonoGame.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/obj/x86/Release/FarseerPhysics MonoGame.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/obj/x86/Release/FarseerPhysics MonoGame.dll.mdb
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/bin/WindowsGL/Release/MonoGame.Framework.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/bin/WindowsGL/Release/OpenTK.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/bin/WindowsGL/Release/Tao.Sdl.dll
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bruno/Dropbox/projetos/pessoal/kaplansky/lib/Farseer Physics Engine 3.5/obj/x86/Release/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs

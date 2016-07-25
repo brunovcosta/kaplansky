@@ -1,0 +1,2 @@
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\Arena-Android\bin\Debug\Arena-Android.dll
+C:\Users\bruno\Dropbox\projetos\pessoal\kaplansky\packages\MonoGame.Framework.Android.3.3.0.0\lib\MonoAndroid\MonoGame.Framework.dll

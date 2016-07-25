@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="desenho.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11263"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11259"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11255"
+       is_visible="true" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker10714"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path10716" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10709"
+       effect="spiro" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6642"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6644" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6640"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4409"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4816"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4406"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4176">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4178" />
+      <stop
+         style="stop-color:#747474;stop-opacity:1;"
+         offset="1"
+         id="stop4180" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4168">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4170" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4172" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4130">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.56790125;"
+         offset="0"
+         id="stop4132" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4134" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4068">
+      <stop
+         style="stop-color:#e7fefe;stop-opacity:1;"
+         offset="0"
+         id="stop4070" />
+      <stop
+         style="stop-color:#e7fefe;stop-opacity:0;"
+         offset="1"
+         id="stop4072" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3952">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop3954" />
+      <stop
+         style="stop-color:#b5b500;stop-opacity:1;"
+         offset="1"
+         id="stop3956" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter3925"
+       x="-0.35190404"
+       width="1.7038081"
+       y="-0.057812808"
+       height="1.1156256">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.408867"
+         id="feGaussianBlur3927" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4068"
+       id="radialGradient4074"
+       cx="267.14264"
+       cy="396.96262"
+       fx="267.14264"
+       fy="396.96259"
+       r="83.128575"
+       gradientTransform="matrix(-1.4567263,1.3252324,-1.9338806,-2.1257333,1423.9749,936.45833)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4068"
+       id="radialGradient4076"
+       cx="267.14264"
+       cy="452.41321"
+       fx="267.14261"
+       fy="452.41321"
+       r="43.84286"
+       gradientTransform="matrix(-2.7620282,2.5127257,-3.6667513,-4.0305128,2663.8851,1598.8487)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4068"
+       id="radialGradient4078"
+       cx="267.14282"
+       cy="450.58102"
+       fx="267.14285"
+       fy="450.58102"
+       r="50.27143"
+       gradientTransform="matrix(-2.408782,2.1914561,-3.1978553,-3.5151021,2351.5246,1445.0543)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4068"
+       id="radialGradient4080"
+       cx="267.14285"
+       cy="495.58813"
+       fx="267.14285"
+       fy="495.58813"
+       r="79.2"
+       gradientTransform="matrix(-1.5289354,1.3910229,-2.029808,-2.2311767,1681.5358,1180.7906)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4130"
+       id="radialGradient4136"
+       cx="276.42856"
+       cy="331.64789"
+       fx="276.42856"
+       fy="331.64789"
+       r="32.142857"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4130"
+       id="radialGradient4138"
+       cx="276.42856"
+       cy="331.64789"
+       fx="276.42856"
+       fy="331.64789"
+       r="32.142857"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4130"
+       id="radialGradient4140"
+       cx="276.42856"
+       cy="331.64789"
+       fx="276.42856"
+       fy="331.64789"
+       r="32.142857"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4130"
+       id="radialGradient4142"
+       cx="276.42856"
+       cy="331.64789"
+       fx="276.42856"
+       fy="331.64789"
+       r="32.142857"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4168"
+       id="linearGradient4174"
+       x1="462.85715"
+       y1="311.5885"
+       x2="462.85715"
+       y2="333.83154"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4176"
+       id="linearGradient4182"
+       x1="465.63928"
+       y1="392.36218"
+       x2="479.28571"
+       y2="392.36218"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4176"
+       id="linearGradient4198"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       x1="465.63928"
+       y1="392.36218"
+       x2="479.28571"
+       y2="392.36218"
+       gradientTransform="translate(-50,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4168"
+       id="linearGradient4200"
+       gradientUnits="userSpaceOnUse"
+       x1="462.85715"
+       y1="311.5885"
+       x2="462.85715"
+       y2="333.83154"
+       gradientTransform="translate(-50,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4176"
+       id="linearGradient4242"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-50,0)"
+       spreadMethod="reflect"
+       x1="465.63928"
+       y1="392.36218"
+       x2="479.28571"
+       y2="392.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4168"
+       id="linearGradient4244"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-50,0)"
+       x1="462.85715"
+       y1="311.5885"
+       x2="462.85715"
+       y2="333.83154" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="-180.96777"
+     inkscape:cy="236.98814"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1360"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3775" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4176"
+       transform="matrix(0,1,-1,0,941.66881,-178.32399)"
+       inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/turbine_off.png"
+       inkscape:export-xdpi="59.062489"
+       inkscape:export-ydpi="59.062489">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_on.png"
+         transform="matrix(1,0,0,1.4569197,0,-184.27244)"
+         id="g3931">
+        <path
+           inkscape:connector-curvature="0"
+           transform="matrix(1.064945,0,0,1.064945,-22.926622,-68.182048)"
+           style="fill:#ffff34;fill-opacity:1;stroke:none;filter:url(#filter3925)"
+           d="m 465.71429,455.93362 a 8.2142859,50 0 0 1 -8.21429,50 8.2142859,50 0 0 1 -8.21429,-50 8.2142859,50 0 0 1 8.21429,-50 8.2142859,50 0 0 1 8.21429,50 z"
+           id="path3929" />
+        <path
+           inkscape:connector-curvature="0"
+           transform="matrix(1,0,0,0.85274118,6.7857158,20.354534)"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3925)"
+           d="m 465.71429,455.93362 a 8.2142859,50 0 0 1 -8.21429,50 8.2142859,50 0 0 1 -8.21429,-50 8.2142859,50 0 0 1 8.21429,-50 8.2142859,50 0 0 1 8.21429,50 z"
+           id="path3915" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4182);fill-opacity:1;stroke:none"
+         d="m 449.28571,374.50504 30,0 0,35.71428 -30,0 z"
+         id="rect3911" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_off.png"
+         style="fill:#c2c2c2;fill-opacity:1;stroke:none"
+         d="m 464.28572,314.50504 c 12.66286,0 22.85714,19.59215 22.85714,43.92858 l 0,36.82142 -45.71428,0 0,-36.82142 c 0,-24.33643 10.19428,-43.92858 22.85714,-43.92858 z"
+         id="path3913"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccss" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_off.png"
+         sodipodi:nodetypes="ssccss"
+         inkscape:connector-curvature="0"
+         id="path4164"
+         d="m 464.28572,316.6479 c 7.91429,0 14.28571,9.03153 14.28571,20.25006 l 0,9.07136 c -8.99126,-11.39068 -18.39235,-14.01566 -28.57142,0 l 0,-9.07136 c 0,-11.21853 6.37142,-20.25006 14.28571,-20.25006 z"
+         style="fill:url(#linearGradient4174);fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4184"
+       transform="matrix(0,1,-1,0,941.66881,-128.32399)">
+      <g
+         id="g4186"
+         transform="matrix(1,0,0,1.4569197,0,-184.27244)"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_on.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4198);fill-opacity:1;stroke:none"
+         d="m 449.28571,374.50504 30,0 0,35.71428 -30,0 z"
+         id="rect4192" />
+      <path
+         sodipodi:nodetypes="ssccss"
+         inkscape:connector-curvature="0"
+         id="path4194"
+         d="m 464.28572,314.50504 c 12.66286,0 22.85714,19.59215 22.85714,43.92858 l 0,36.82142 -45.71428,0 0,-36.82142 c 0,-24.33643 10.19428,-43.92858 22.85714,-43.92858 z"
+         style="fill:#c2c2c2;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_off.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:url(#linearGradient4200);fill-opacity:1;stroke:none"
+         d="m 464.28572,316.6479 c 7.91429,0 14.28571,9.03153 14.28571,20.25006 l 0,9.07136 c -8.99126,-11.39068 -18.39235,-14.01566 -28.57142,0 l 0,-9.07136 c 0,-11.21853 6.37142,-20.25006 14.28571,-20.25006 z"
+         id="path4196"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccss"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_off.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.428572,-146.20922 22.142857,-32.14286 24.285714,13.57143 25.000007,-35 48.57143,12.85715 27.85714,25 -2.14286,23.57142 -10.71428,-12.14285 0,12.14285 -17.85715,-10 3.57143,17.14286 -13.57143,-14.28571 -2.85714,20.71428 -15,-19.28571 L 135,-100.49493 147.14286,-121.9235 145,-89.78065 l 12.14286,-22.14285 -2.85714,23.57142 12.85714,-21.42857 1.42857,20.71429 7.85715,-20 6.42857,15.71428 -14.28572,17.14286 -25,-7.85714 L 125,-83.35208 94.285715,-100.49493 105,-121.9235 l -15.714285,-14.28572 7.142857,17.85714 -17.142857,-8.57142 5.714285,30 10,5.71428 -25.714285,-4.28571 -12.857143,-45 -7.857143,31.42857 7.142857,15 25,9.28571 -38.571429,-5 L 25,-117.63779 27.142857,-141.9235 Z"
+       id="path11468"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+       inkscape:export-xdpi="141.2556"
+       inkscape:export-ydpi="141.2556" />
+    <circle
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path11470"
+       cx="134.28571"
+       cy="-171.20921"
+       r="16.428572"
+       inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+       inkscape:export-xdpi="141.2556"
+       inkscape:export-ydpi="141.2556" />
+    <g
+       transform="translate(187.14286,-410.71428)"
+       id="g11476">
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 8.571428,268.79077 22.142857,-32.14285 24.285714,13.57143 25.000003,-35 48.571428,12.85715 27.85714,25 -2.82316,42.48535 -7.42337,-14.3923 -2.96631,11.77497 -14.8733,-14.05925 -0.7245,17.49594 -9.67049,-17.16818 -7.83075,19.38875 -9.83437,-22.36569 8.90849,31.73582 5.84672,-21.9259 6.69363,29.51111 5.65216,-24.61317 3.67157,23.45836 6.53398,-24.12046 7.01697,19.54187 2.11219,-21.38395 8.28197,21.20814 -14.28572,17.14286 -25,-7.85714 -18.571428,0.71428 -30.714281,-5.14285 10.714281,-21.42857 -15.714281,-14.28572 7.142857,17.85714 -17.142857,-8.57142 5.714285,30 10,5.71428 -25.714285,-4.28571 -12.857143,-45 -7.857143,31.42857 7.142857,15 25,9.28571 -38.571429,-5 -17.142857,-27.85714 2.142857,-24.28571 z"
+         id="path11478"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+         inkscape:export-xdpi="141.2556"
+         inkscape:export-ydpi="141.2556"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+      <circle
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11480"
+         cx="106.42857"
+         cy="243.79079"
+         r="16.428572"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+         inkscape:export-xdpi="141.2556"
+         inkscape:export-ydpi="141.2556" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:export-ydpi="141.2556"
+         inkscape:export-xdpi="141.2556"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+         inkscape:connector-curvature="0"
+         id="path11503"
+         d="M 167.85715,268.79077 190,236.64792 l 24.28572,13.57143 25,-35 48.57143,12.85715 27.85714,25 -0.32316,44.41393 -9.56623,-21.8923 -2.60916,14.63211 -7.01616,-12.27353 -4.65307,18.92451 -11.81335,-16.81105 -10.33075,6.53161 -9.83437,-22.36569 9.26563,25.52153 10.13244,-7.49732 2.05077,23.29682 0.29502,-20.6846 9.02871,19.52979 6.53398,-24.12046 7.01697,19.54188 2.11219,-21.38395 8.28197,21.20814 L 300,316.79078 l -25,-7.85714 -15,13.07142 -34.28571,-7.5 10.71428,-21.42856 -15.71428,-14.28573 7.14286,17.85714 -17.14286,-8.57141 5.71428,30 10,5.71427 -25.71428,-4.28571 -12.85714,-45 -7.85715,31.42857 7.14286,15 25,9.28571 -38.57143,-5 -17.14286,-27.85714 2.14286,-24.28571 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="141.2556"
+         inkscape:export-xdpi="141.2556"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+         r="16.428572"
+         cy="243.79079"
+         cx="265.71429"
+         id="circle11505"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:export-ydpi="141.2556"
+         inkscape:export-xdpi="141.2556"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+         inkscape:connector-curvature="0"
+         id="path11511"
+         d="m 327.14286,268.79077 22.14285,-32.14285 24.28572,13.57143 25,-35 48.57143,12.85715 27.85714,25 -2.82316,42.48535 -7.42337,-14.3923 -2.96631,11.77497 -14.8733,-14.05925 -0.7245,17.49594 -9.67049,-17.16818 -7.83075,19.38875 -9.83437,-22.36569 8.90849,31.73582 5.84672,-21.9259 6.69363,29.51111 5.65216,-24.61317 3.67157,23.45836 6.53398,-24.12046 7.01697,19.54187 2.11219,-21.38395 8.28197,21.20814 -14.28572,17.14286 -25,-7.85714 -18.57143,0.71428 L 385,314.50506 395.71428,293.07649 380,278.79077 387.14286,296.64791 370,288.07649 l 5.71428,30 10,5.71428 L 360,319.50506 l -12.85714,-45 -7.85715,31.42857 7.14286,15 25,9.28571 -38.57143,-5 -17.14286,-27.85714 2.14286,-24.28571 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="141.2556"
+         inkscape:export-xdpi="141.2556"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/laser.png"
+         r="16.428572"
+         cy="243.79079"
+         cx="425"
+         id="circle11513"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4262"
+       transform="translate(680.84281,0)">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -388.69336,119.88988 107.01669,0 0,52.73098 -107.01669,0 z"
+         id="path4248" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4252"
+         d="m -342.10187,168.31843 a 23.073217,23.073217 0 0 1 -23.07322,-23.07322 23.073217,23.073217 0 0 1 23.07322,-23.07322 23.073217,23.073217 0 0 1 23.07322,23.07322 23.073217,23.073217 0 0 1 -23.07322,23.07322 z"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.79999983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path4260"
+         d="m -356.36848,142.11324 242.37713,0 0,8.28426 -242.37713,0 z"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254"
+         d="m -342.10188,160.5858 a 15.34059,15.34059 0 0 1 -15.34059,-15.34059 15.34059,15.34059 0 0 1 15.34059,-15.34059 15.34059,15.34059 0 0 1 15.34059,15.34059 15.34059,15.34059 0 0 1 -15.34059,15.34059 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.79999983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g10642"
+       transform="translate(11.616755,391.93918)">
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botLaser.png"
+         id="g4322">
+        <rect
+           ry="0"
+           rx="0"
+           y="-115.37413"
+           x="-824.28448"
+           height="294.96454"
+           width="294.96454"
+           id="rect4320"
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4278"
+           width="270.72089"
+           height="270.72089"
+           x="-812.16266"
+           y="-103.2523"
+           rx="0"
+           ry="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botLaser.png"
+         id="g4268"
+         transform="matrix(0.76308196,-0.64630173,0.64630173,0.76308196,-566.21488,-253.05138)">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -388.69336,119.88988 107.01669,0 0,52.73098 -107.01669,0 z"
+           id="path4270" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4272"
+           d="m -342.10187,168.31843 a 23.073217,23.073217 0 0 1 -23.07322,-23.07322 23.073217,23.073217 0 0 1 23.07322,-23.07322 23.073217,23.073217 0 0 1 23.07322,23.07322 23.073217,23.073217 0 0 1 -23.07322,23.07322 z"
+           style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.79999983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path4274"
+           d="m -356.36848,142.11324 242.37713,0 0,8.28426 -242.37713,0 z"
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4276"
+           d="m -342.10188,160.5858 a 15.34059,15.34059 0 0 1 -15.34059,-15.34059 15.34059,15.34059 0 0 1 15.34059,-15.34059 15.34059,15.34059 0 0 1 15.34059,15.34059 15.34059,15.34059 0 0 1 -15.34059,15.34059 z"
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.79999983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g10652"
+       transform="translate(18.18274,391.93918)">
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botTurb.png"
+         transform="translate(337.39095,0)"
+         id="g4332">
+        <rect
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4334"
+           width="294.96454"
+           height="294.96454"
+           x="-824.28448"
+           y="-115.37413"
+           rx="0"
+           ry="0" />
+        <rect
+           ry="0"
+           rx="0"
+           y="-103.2523"
+           x="-812.16266"
+           height="270.72089"
+           width="270.72089"
+           id="rect4336"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botTurb.png"
+         id="g4232"
+         transform="matrix(1.454164,1.3061325,-1.3061325,1.454164,-528.554,-1101.5673)">
+        <g
+           id="g4234"
+           transform="matrix(1,0,0,1.4569197,0,-184.27244)"
+           inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_on.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient4242);fill-opacity:1;stroke:none"
+           d="m 449.28571,374.50504 30,0 0,35.71428 -30,0 z"
+           id="path4236" />
+        <path
+           sodipodi:nodetypes="ssccss"
+           inkscape:connector-curvature="0"
+           id="path4238"
+           d="m 464.28572,314.50504 c 12.66286,0 22.85714,19.59215 22.85714,43.92858 l 0,36.82142 -45.71428,0 0,-36.82142 c 0,-24.33643 10.19428,-43.92858 22.85714,-43.92858 z"
+           style="fill:#c2c2c2;fill-opacity:1;stroke:none"
+           inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_off.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:url(#linearGradient4244);fill-opacity:1;stroke:none"
+           d="m 464.28572,316.6479 c 7.91429,0 14.28571,9.03153 14.28571,20.25006 l 0,9.07136 c -8.99126,-11.39068 -18.39235,-14.01566 -28.57142,0 l 0,-9.07136 c 0,-11.21853 6.37142,-20.25006 14.28571,-20.25006 z"
+           id="path4240"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssccss"
+           inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/assets/turbine_off.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <g
+       id="g10631"
+       transform="translate(-672.25651,395.9798)">
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botClock.png"
+         id="g4338"
+         transform="translate(-4.0406079,329.30973)">
+        <rect
+           ry="0"
+           rx="0"
+           y="-115.37413"
+           x="-824.28448"
+           height="294.96454"
+           width="294.96454"
+           id="rect4340"
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4342"
+           width="270.72089"
+           height="270.72089"
+           x="-812.16266"
+           y="-103.2523"
+           rx="0"
+           ry="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botClock.png"
+         transform="matrix(0.79687501,0,0,0.79687501,-432.12432,36.79497)"
+         id="g4354">
+        <circle
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4344"
+           cx="-317.1879"
+           cy="409.90518"
+           r="129.29953" />
+        <circle
+           r="121.21831"
+           cy="409.90518"
+           cx="-317.1879"
+           id="circle4346"
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle4348"
+           cx="-317.1879"
+           cy="409.90518"
+           r="12.121835" />
+        <rect
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4350"
+           width="111.11678"
+           height="10.101525"
+           x="-489.79691"
+           y="157.33174"
+           inkscape:transform-center-x="-47.940945"
+           inkscape:transform-center-y="-31.114627"
+           transform="matrix(0.82846581,-0.56003965,0.56003965,0.82846581,0,0)" />
+        <rect
+           transform="matrix(0.18980596,-0.98182162,0.98182162,0.18980596,0,0)"
+           inkscape:transform-center-y="-55.900735"
+           inkscape:transform-center-x="-11.898003"
+           y="-238.4619"
+           x="-535.7085"
+           height="7.3332667"
+           width="72.75119"
+           id="rect4352"
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g10622"
+       transform="translate(-328.29957,78.7919)">
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botBot.png"
+         transform="translate(-4.0406079,646.49763)"
+         id="g4361">
+        <rect
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4363"
+           width="294.96454"
+           height="294.96454"
+           x="-824.28448"
+           y="-115.37413"
+           rx="0"
+           ry="0" />
+        <rect
+           ry="0"
+           rx="0"
+           y="-103.2523"
+           x="-812.16266"
+           height="270.72089"
+           width="270.72089"
+           id="rect4365"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botBot.png"
+         transform="matrix(0.81277774,0,0,0.81277774,-119.25865,94.458098)"
+         id="g4393">
+        <ellipse
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse4383"
+           cx="-690.94434"
+           cy="759.41803"
+           rx="145.46196"
+           ry="72.73098" />
+        <ellipse
+           ry="44.446709"
+           rx="88.893417"
+           cy="721.03223"
+           cx="-690.94434"
+           id="ellipse4381"
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <ellipse
+           style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4379"
+           cx="-690.94434"
+           cy="680.6261"
+           rx="113.13708"
+           ry="50.507626" />
+      </g>
+    </g>
+    <g
+       id="g10615"
+       transform="translate(-1357.645,-254.55844)">
+      <g
+         transform="translate(337.39095,979.84797)"
+         id="g6584"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botAnd.png"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-ydpi="15.256071">
+        <rect
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6586"
+           width="294.96454"
+           height="294.96454"
+           x="-824.28448"
+           y="-115.37413"
+           rx="0"
+           ry="0" />
+        <rect
+           ry="0"
+           rx="0"
+           y="-103.2523"
+           x="-812.16266"
+           height="270.72089"
+           width="270.72089"
+           id="rect6588"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <text
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botAnd.png"
+         sodipodi:linespacing="125%"
+         id="text6590"
+         y="1063.8531"
+         x="-454.63504"
+         style="font-style:normal;font-weight:normal;font-size:149.26811218px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1063.8531"
+           x="-454.63504"
+           id="tspan6592"
+           sodipodi:role="line">&amp;&amp;</tspan></text>
+    </g>
+    <g
+       id="g6620"
+       transform="translate(-14.285714,34.285714)"
+       inkscape:export-xdpi="39.873421"
+       inkscape:export-ydpi="39.873421">
+      <circle
+         r="112.85714"
+         cy="775.21936"
+         cx="355.71429"
+         id="path6612"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6614"
+         cx="355.71429"
+         cy="775.21936"
+         r="97.142853" />
+      <circle
+         r="87.142853"
+         cy="775.21936"
+         cx="355.71429"
+         id="circle6616"
+         style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6618"
+         cx="355.71429"
+         cy="775.21936"
+         r="31.428568" />
+    </g>
+    <g
+       id="g10592"
+       transform="translate(15.15229,399.28805)"
+       inkscape:export-xdpi="15.256068"
+       inkscape:export-ydpi="15.256068">
+      <g
+         transform="translate(-347.49247,-7.3488699)"
+         id="g6626"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-ydpi="15.256071">
+        <rect
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6628"
+           width="294.96454"
+           height="294.96454"
+           x="-824.28448"
+           y="-115.37413"
+           rx="0"
+           ry="0" />
+        <rect
+           ry="0"
+           rx="0"
+           y="-103.2523"
+           x="-812.16266"
+           height="270.72089"
+           width="270.72089"
+           id="rect6630"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.44796562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6642)"
+         d="m -1099.538,129.75473 c -21.0759,-14.22811 -37.1847,-35.668504 -44.9837,-59.871952 -7.799,-24.203447 -7.2382,-51.015219 1.5658,-74.8714339 8.8041,-23.8562141 25.7953,-44.6043641 47.4476,-57.9388661 21.6523,-13.334502 47.8273,-19.170113 73.0933,-16.295848 19.8325,2.256146 39.03855,9.802241 55.10251,21.649838 16.06397,11.847596 28.9465,27.967706 36.96014,46.24879 8.01364,18.2810834 11.13879,38.678413 8.96608,58.520183 -2.1727,19.841769 -9.63795,39.079433 -21.41787,55.193089"
+         id="path6638"
+         inkscape:path-effect="#path-effect6640"
+         inkscape:original-d="m -1099.538,129.75473 c -62.1958,-72.1472 0,-236.3444 77.123,-208.9781 77.12303,27.3661 79.61086,181.6119 79.61086,181.6119"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-ydpi="15.256071" />
+      <g
+         id="g10582"
+         transform="matrix(0.67088607,0,0,0.67088607,-1262.9385,-495.3246)">
+        <circle
+           r="112.85714"
+           cy="775.21936"
+           cx="355.71429"
+           id="circle10584"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1"
+           id="circle10586"
+           cx="355.71429"
+           cy="775.21936"
+           r="97.142853" />
+        <circle
+           r="87.142853"
+           cy="775.21936"
+           cx="355.71429"
+           id="circle10588"
+           style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1"
+           id="circle10590"
+           cx="355.71429"
+           cy="775.21936"
+           r="31.428568" />
+      </g>
+    </g>
+    <g
+       id="g10662"
+       transform="matrix(-1,0,0,1,-2377.394,399.28805)"
+       inkscape:export-xdpi="15.256068"
+       inkscape:export-ydpi="15.256068">
+      <g
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+         id="g10664"
+         transform="translate(-347.49247,-7.3488699)">
+        <rect
+           ry="0"
+           rx="0"
+           y="-115.37413"
+           x="-824.28448"
+           height="294.96454"
+           width="294.96454"
+           id="rect10666"
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect10668"
+           width="270.72089"
+           height="270.72089"
+           x="-812.16266"
+           y="-103.2523"
+           rx="0"
+           ry="0" />
+      </g>
+      <path
+         inkscape:export-ydpi="15.256071"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m -1099.538,129.75473 c -62.1958,-72.1472 0,-236.3444 77.123,-208.9781 77.12303,27.3661 79.61086,181.6119 79.61086,181.6119"
+         inkscape:path-effect="#path-effect6640"
+         id="path10670"
+         d="m -1099.538,129.75473 c -21.0759,-14.22811 -37.1847,-35.668504 -44.9837,-59.871952 -7.799,-24.203447 -7.2382,-51.015219 1.5658,-74.8714339 8.8041,-23.8562141 25.7953,-44.6043641 47.4476,-57.9388661 21.6523,-13.334502 47.8273,-19.170113 73.0933,-16.295848 19.8325,2.256146 39.03855,9.802241 55.10251,21.649838 16.06397,11.847596 28.9465,27.967706 36.96014,46.24879 8.01364,18.2810834 11.13879,38.678413 8.96608,58.520183 -2.1727,19.841769 -9.63795,39.079433 -21.41787,55.193089"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.44796562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6642)" />
+      <g
+         transform="matrix(0.67088607,0,0,0.67088607,-1262.9385,-495.3246)"
+         id="g10672">
+        <circle
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1"
+           id="circle10674"
+           cx="355.71429"
+           cy="775.21936"
+           r="112.85714" />
+        <circle
+           r="97.142853"
+           cy="775.21936"
+           cx="355.71429"
+           id="circle10676"
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1"
+           id="circle10678"
+           cx="355.71429"
+           cy="775.21936"
+           r="87.142853" />
+        <circle
+           r="31.428568"
+           cy="775.21936"
+           cx="355.71429"
+           id="circle10680"
+           style="opacity:1;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g11218"
+       transform="translate(-343.95694,339.41125)">
+      <g
+         transform="translate(359.6143,-593.96969)"
+         id="g10609">
+        <g
+           transform="translate(-4.0406079,979.84797)"
+           id="g6284"
+           inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+           inkscape:export-xdpi="15.256071"
+           inkscape:export-ydpi="15.256071">
+          <rect
+             style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect6286"
+             width="294.96454"
+             height="294.96454"
+             x="-824.28448"
+             y="-115.37413"
+             rx="0"
+             ry="0" />
+          <rect
+             ry="0"
+             rx="0"
+             y="-103.2523"
+             x="-812.16266"
+             height="270.72089"
+             width="270.72089"
+             id="rect6288"
+             style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m -746.48029,1088.7276 c -17.11515,-11.5543 -30.19672,-28.9654 -36.53007,-48.6204 -6.33335,-19.655 -5.87799,-41.4281 1.27157,-60.80109 7.14957,-19.373 20.94764,-36.22202 38.53089,-47.05061 17.58326,-10.8286 38.83928,-15.56754 59.35711,-13.23343 16.10541,1.83216 31.70217,7.96014 44.74729,17.58126 13.04512,9.62113 23.50668,22.71185 30.01434,37.55744 6.50766,14.84558 9.0455,31.40973 7.2811,47.52273 -1.76441,16.1129 -7.82675,31.7353 -17.39293,44.8208"
+           id="path4814"
+           inkscape:path-effect="#path-effect4816"
+           inkscape:original-d="m -746.48029,1088.7276 c -50.50758,-58.5888 0,-191.92889 62.6295,-169.70553 62.6295,22.22335 64.6498,147.48223 64.6498,147.48223"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+           inkscape:export-xdpi="15.256071"
+           inkscape:export-ydpi="15.256071" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text10686"
+         y="481.31747"
+         x="-366.68524"
+         style="font-style:normal;font-weight:normal;font-size:170.66056824px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan10690"
+           y="481.31747"
+           x="-366.68524"
+           sodipodi:role="line">?</tspan></text>
+    </g>
+    <g
+       id="g11210">
+      <g
+         transform="translate(355.57369,725.28953)"
+         id="g10696"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-ydpi="15.256071">
+        <rect
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect10698"
+           width="294.96454"
+           height="294.96454"
+           x="-824.28448"
+           y="-115.37413"
+           rx="0"
+           ry="0" />
+        <rect
+           ry="0"
+           rx="0"
+           y="-103.2523"
+           x="-812.16266"
+           height="270.72089"
+           width="270.72089"
+           id="rect10700"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:27.79999924;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10714)"
+         d="m -260.12547,842.66166 c 17.11515,-11.55426 30.19672,-28.96543 36.53007,-48.6204 6.33335,-19.65498 5.87799,-41.4281 -1.27157,-60.80109 -7.14957,-19.373 -20.94764,-36.22202 -38.53089,-47.05061 -17.58326,-10.8286 -38.83928,-15.56754 -59.35711,-13.23343 -16.10541,1.83216 -31.70217,7.96014 -44.74729,17.58126 -13.04512,9.62113 -23.50668,22.71185 -30.01434,37.55744 -6.50766,14.84558 -9.0455,31.40972 -7.2811,47.52269 1.76441,16.11298 7.82675,31.73537 17.39293,44.82084"
+         id="path10702"
+         inkscape:path-effect="#path-effect10709"
+         inkscape:original-d="m -260.12547,842.66166 c 50.50758,-58.5888 0,-191.92889 -62.6295,-169.70553 -62.6295,22.22335 -64.6498,147.48223 -64.6498,147.48223"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/Gyroscope.png"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-ydpi="15.256071" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:170.66056824px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-366.68524"
+         y="820.72876"
+         id="text10704"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="-366.68524"
+           y="820.72876"
+           id="tspan10706">?</tspan></text>
+    </g>
+    <g
+       id="g11270"
+       transform="translate(-30.30456,0)">
+      <g
+         transform="translate(-989.94949,391.93918)"
+         id="g11229"
+         inkscape:export-filename="/home/bruno/Dropbox/projetos/Arena/Arena/Content/botLaser.png"
+         inkscape:export-xdpi="15.256071"
+         inkscape:export-ydpi="15.256071">
+        <rect
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11231"
+           width="294.96454"
+           height="294.96454"
+           x="-824.28448"
+           y="-115.37413"
+           rx="0"
+           ry="0" />
+        <rect
+           ry="0"
+           rx="0"
+           y="-103.2523"
+           x="-812.16266"
+           height="270.72089"
+           width="270.72089"
+           id="rect11233"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(0.43216385,0,0,0.43216385,-1196.6647,-190.4156)"
+         id="g11265">
+        <path
+           style="fill:#d07800;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -1121.4383,1165.1792 c -42.5467,91.0595 -53.3691,196.5776 -30.1927,294.378 6.1108,25.7864 14.5715,51.1848 27.4674,74.336 12.8959,23.1511 30.3943,44.0489 52.4273,58.7739 22.0331,14.725 48.7755,22.9919 75.18664,20.8167 26.41115,-2.1751 52.20391,-15.3532 67.58918,-36.9304 9.01125,-12.6379 14.31141,-27.7698 15.94382,-43.2053 1.63241,-15.4355 -0.33562,-31.159 -4.96261,-45.9748 -9.25399,-29.6317 -28.7756,-55.1091 -51.06352,-76.7175 -22.28792,-21.6084 -47.52631,-39.8981 -71.35531,-59.7942 -23.8289,-19.896 -46.6005,-41.8297 -62.1699,-68.6861 -20.2603,-34.948 -27.1155,-77.4507 -18.8703,-116.9963 z"
+           id="path11253"
+           inkscape:path-effect="#path-effect11255"
+           inkscape:original-d="m -1121.4383,1165.1792 c 0,0 15.0963,226.4446 -30.1927,294.378 -45.2889,67.9332 203.80008,196.2518 222.67052,116.9962 18.87044,-79.2555 -147.18892,-249.089 -173.60752,-294.3779 -26.4185,-45.2889 -18.8703,-116.9963 -18.8703,-116.9963 z"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m -1226.4942,1229.8289 c 0,0 15.0963,226.4446 -30.1927,294.378 -45.2889,67.9332 203.8001,196.2518 222.6705,116.9962 18.8705,-79.2555 -147.1889,-249.089 -173.6075,-294.3779 -26.4185,-45.2889 -18.8703,-116.9963 -18.8703,-116.9963 z"
+           inkscape:path-effect="#path-effect11259"
+           id="path11257"
+           d="m -1226.4942,1229.8289 c -42.5467,91.0595 -53.3691,196.5776 -30.1927,294.378 6.1108,25.7864 14.5715,51.1848 27.4674,74.3359 12.8959,23.1512 30.3943,44.049 52.4273,58.774 22.033,14.725 48.7755,22.9919 75.1866,20.8167 26.4112,-2.1751 52.2039,-15.3533 67.5892,-36.9304 9.0112,-12.6379 14.3114,-27.7698 15.9438,-43.2053 1.6324,-15.4355 -0.3356,-31.159 -4.9626,-45.9748 -9.254,-29.6317 -28.7756,-55.1091 -51.0635,-76.7175 -22.2879,-21.6084 -47.5263,-39.8981 -71.3553,-59.7942 -23.8289,-19.896 -46.6005,-41.8297 -62.1699,-68.6861 -20.2603,-34.948 -27.1155,-77.4507 -18.8703,-116.9963 z"
+           style="fill:#d07800;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#d07800;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -1063.8997,1203.3593 c 76.66777,64.9931 130.54053,156.3656 150.29601,254.9139 5.2088,25.9836 8.12017,52.5954 6.06319,79.016 -2.05698,26.4206 -9.2369,52.7144 -23.11384,75.2911 -13.87695,22.5768 -34.72886,41.2502 -59.63768,50.2962 -24.90878,9.046 -53.84778,7.835 -76.83428,-5.3521 -13.4633,-7.7238 -24.5952,-19.2629 -32.5206,-32.6085 -7.9254,-13.3456 -12.6992,-28.4556 -14.6778,-43.8506 -3.9572,-30.7898 3.15,-62.0896 14.3858,-91.028 11.2358,-28.9384 26.5379,-56.0923 39.8888,-84.1178 13.3508,-28.0255 24.8904,-57.4613 27.8305,-88.3648 3.8259,-40.2145 -7.6829,-81.6996 -31.6801,-114.1954 z"
+           id="path11261"
+           inkscape:path-effect="#path-effect11263"
+           inkscape:original-d="m -1063.8997,1203.3593 c 0,0 80.78785,212.081 150.29601,254.9139 69.50799,42.8327 -103.29691,263.3989 -153.52261,199.2512 -50.2258,-64.1475 29.8001,-287.7878 34.9067,-339.9697 5.1064,-52.1819 -31.6801,-114.1954 -31.6801,-114.1954 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
