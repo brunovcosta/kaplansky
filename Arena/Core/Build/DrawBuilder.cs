@@ -7,8 +7,8 @@ namespace Arena{
 	public class DrawBuilder{
 		public List<Vector2> lines;
 		public List<Vector2> circles;
-		BuildScene node;
-		public DrawBuilder (BuildScene node){
+		BuildNode node;
+		public DrawBuilder (BuildNode node){
 			lines = new List<Vector2> ();
 			circles = new List<Vector2> ();
 			this.node = node;

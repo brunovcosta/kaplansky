@@ -13,11 +13,11 @@ namespace Arena{
 		WHEEL_ANTI_CLOCK_WISE=4
 	}
 	public class ModuleBar : Panel{
-		BuildScene node;
+		BuildNode node;
 		public ModuleSelection selected;
 		List<GuiButton> buttons;
 		public int BUTTON_SIZE=50;
-		public ModuleBar (BuildScene node,int x,int y,int w,int h):base(x,y,w,h){
+		public ModuleBar (BuildNode node,int x,int y,int w,int h):base(x,y,w,h){
 			this.node = node;
 			buttons = new List<GuiButton>();
 			for(int t=0;t<ModuleData.all.Length-1;t++){

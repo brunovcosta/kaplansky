@@ -11,8 +11,8 @@ namespace Arena{
 	public class PlayerBuilder{
 		public float minDist=5;
 		public List<Vertices> playerVertex;
-		BuildScene node;
-		public PlayerBuilder(BuildScene node){
+		BuildNode node;
+		public PlayerBuilder(BuildNode node){
 			playerVertex = new List<Vertices> ();
 			this.node = node;
 		}
@@ -38,19 +38,22 @@ namespace Arena{
 			Vertices lastVertex = playerVertex[playerVertex.Count-1];
 			return (MouseInterface.MouseOnGrid (node.mouse, node.view.GRID) - lastVertex [lastVertex.Count - 1]).Length ();
 		}
-		public void MakePlayerVertices(){
-			if (node.keyboard.IsKeyDown (Keys.Back) && playerVertex.Count>0)
-				playerVertex.RemoveAt (playerVertex.Count - 1);
-			Vertices lastVertex = playerVertex[playerVertex.Count-1];
-			if (node.mouse.LeftButton == ButtonState.Pressed) {
-				if (lastVertex.Count == 0 || mouseVertexDistance()> minDist)
-					lastVertex.Add (MouseInterface.MouseOnGrid (node.mouse, node.view.GRID));
-				if (lastVertex.Count >= 3 && !Geometry.IsSimpleCurve (lastVertex))
-					lastVertex.RemoveAt (lastVertex.Count - 1);
-			} else {
-				if (playerVertex.Count >= 3)
-					node.CraftFinish ();
-			}
+        public void MakePlayerVertices() {
+            if (node.keyboard.IsKeyDown(Keys.Back) && playerVertex.Count > 0)
+                playerVertex.RemoveAt(playerVertex.Count - 1);
+
+            if (playerVertex.Count > 0) {
+                Vertices lastVertex = playerVertex[playerVertex.Count-1];
+                if (node.mouse.LeftButton == ButtonState.Pressed) {
+                    if (lastVertex.Count == 0 || mouseVertexDistance()> minDist)
+                        lastVertex.Add (MouseInterface.MouseOnGrid (node.mouse, node.view.GRID));
+                    if (lastVertex.Count >= 3 && !Geometry.IsSimpleCurve (lastVertex))
+                        lastVertex.RemoveAt (lastVertex.Count - 1);
+                } else {
+                    if (playerVertex.Count >= 3)
+                        node.CraftFinish ();
+                }
+            }
 		}
 	}
 }

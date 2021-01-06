@@ -10,8 +10,8 @@ using ArenaMonoGame;
 namespace Arena{
 	public class View : Panel{
 		public int GRID=1;
-		public BuildScene node;
-		public View(BuildScene node,int x,int y,int w,int h):base(x,y,w,h){
+		public BuildNode node;
+		public View(BuildNode node,int x,int y,int w,int h):base(x,y,w,h){
 			this.node = node;
 		}
 		public void Draw (SpriteBatch batch){

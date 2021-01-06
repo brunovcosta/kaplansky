@@ -6,11 +6,11 @@ using Microsoft.Xna.Framework;
 
 namespace Arena{
 	public class CircuitBar : Panel{
-		BuildScene node;
+		BuildNode node;
 		GuiButton button,clock,and,gyroscope;
 		public Component selected;
 		public bool key;
-		public CircuitBar (BuildScene node,int x,int y,int w,int h):base(x,y,w,h){
+		public CircuitBar (BuildNode node,int x,int y,int w,int h):base(x,y,w,h){
 			this.node = node;
 			int t = 0;
 			and = new GuiButton ("botAnd.png",x+50*t++,y,50,50);

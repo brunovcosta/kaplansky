@@ -26,8 +26,8 @@ namespace Arena{
 		public float PIXELS_PER_METER=30;
 		public int WIDTH=1200,HEIGHT=1200	*9/16;
 		public SpriteBatch spriteBatch;
-		public PlayScene playNode;
-		public BuildScene buildNode;
+		public PlayNode playNode;
+		public BuildNode buildNode;
 		public MouseState mouseState;
 		public KeyboardState keyState;
 		public int level =1;
@@ -48,12 +48,12 @@ namespace Arena{
 		}
 		protected override void Initialize(){
 			base.Initialize();
-			buildNode = new BuildScene ();
+			buildNode = new BuildNode ();
 		}
 		public void goTo(int newLevel = 0){
 			if (newLevel == 0)
 				newLevel = this.level;
-			buildNode = new BuildScene (newLevel);
+			buildNode = new BuildNode (newLevel);
 			this.level = newLevel;
 			state = GameStates.BUILD;
 		}

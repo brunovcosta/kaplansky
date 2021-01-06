@@ -5,8 +5,8 @@ using Microsoft.Xna.Framework.Input;
 namespace Arena{
 	public class CircuitBuilder{
 		Stack<Component> unprocessedCircuitStack;
-		BuildScene node;
-		public CircuitBuilder(BuildScene node){
+		BuildNode node;
+		public CircuitBuilder(BuildNode node){
 			unprocessedCircuitStack = new Stack<Component> ();
 			this.node = node;
 		}

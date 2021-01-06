@@ -15,8 +15,8 @@ namespace Arena{
 	}
 	public class ModuleBuilder{
 		public List<ModuleEntry> modules;
-		BuildScene node;
-		public ModuleBuilder (BuildScene node){
+		BuildNode node;
+		public ModuleBuilder (BuildNode node){
 			modules = new List<ModuleEntry> ();
 			this.node = node;
 		}

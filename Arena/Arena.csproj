@@ -58,6 +58,9 @@
     <Reference Include="Tao.Sdl">
       <HintPath>..\packages\MonoGame.Framework.Linux.3.4.0.459\lib\net40\Tao.Sdl.dll</HintPath>
     </Reference>
+    <Reference Include="ReTao">
+      <HintPath>..\packages\ReTao.1.0.0\lib\net40\ReTao.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
@@ -118,6 +121,7 @@
     <None Include="Icon.png" />
     <None Include="Content\Content.mgcb" />
     <None Include="packages.config" />
+    <None Include="Tao.Sdl.dll.config" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -222,4 +226,5 @@
   <ItemGroup>
     <Folder Include="Core\Nodes\Scenes\" />
   </ItemGroup>
+  <Import Project="..\packages\ReTao.1.0.0\build\ReTao.targets" Condition="Exists('..\packages\ReTao.1.0.0\build\ReTao.targets')" />
 </Project>

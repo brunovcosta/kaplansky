@@ -39,8 +39,8 @@ namespace Arena{
 			shape = new PolygonShape (1);
 			shape.Vertices=PolygonTools.CreateRectangle (SIZE_IN_METERS,SIZE_IN_METERS);
 			float ppm = game.PIXELS_PER_METER;
-			BuildScene build = game.buildNode;
-			PlayScene play = game.playNode;
+			BuildNode build = game.buildNode;
+			PlayNode play = game.playNode;
 			upLeft = new Vector2(-SIZE_IN_METERS/2,-SIZE_IN_METERS/2);
 			upRight = new Vector2(SIZE_IN_METERS/2,-SIZE_IN_METERS/2);
 			downLeft = new Vector2(-SIZE_IN_METERS/2,SIZE_IN_METERS/2);
